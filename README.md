@@ -6,7 +6,7 @@ Iniciamos o projeto com a ideia de analisar os dados pelo pandas. Após algumas 
 
 Durante o hackathon, tivemos o nosso primeiro contato com o Apache Spark, e ficamos encantado como ele otimiza o processamento distribuindo em várias tarefas que ocorrem de forma simultânea nos node que são gerenciado por um node master.
 
-Após a fantástica mentoria que tivemos com o Neylson, ele comentou sobre alguns serviços da GCP, o que nos fez estudar como implementar o Spark no DATAPROC. Infelizmente não conseguimos fazer o job funcionar dentro no cluster que criamos.
+Após a fantástica mentoria que tivemos com o Neylson, ele comentou sobre alguns serviços da GCP, o que nos fez estudar como implementar o Spark no DATAPROC. Infelizmente não conseguimos fazer o job funcionar dentro do cluster que criamos.
 
 ![Captura de Tela 2021-06-19 às 10 19 13](https://user-images.githubusercontent.com/4883350/122651764-68554500-d111-11eb-89a4-43815fe2b799.png)
 
